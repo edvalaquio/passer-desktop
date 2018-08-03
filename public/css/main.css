@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row-reverse;
+}
+
+.app-menu-bar{
+    background-color: blue;
+    height: 100%;
+    width: 80px;
+}
+
+.app-main-window{
+    background-color: green;
+    height: 100%;
+    width: 100%;
+}
