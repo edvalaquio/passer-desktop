@@ -1,0 +1,27 @@
+{
+  "name": "passer-desktop",
+  "version": "1.0.0",
+  "description": "Application that sends/receives messages from phone to desktop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasingNaJedi69/passer-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LasingNaJedi69/passer-desktop/issues"
+  },
+  "homepage": "https://github.com/LasingNaJedi69/passer-desktop#readme",
+  "dependencies": {
+    "angular": "^1.7.2",
+    "extract-zip": "^1.6.0"
+  },
+  "devDependencies": {
+    "electron": "2.0.6"
+  }
+}

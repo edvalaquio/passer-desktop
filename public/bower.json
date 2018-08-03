@@ -1,0 +1,14 @@
+{
+  "name": "passer-desktop",
+  "homepage": "https://github.com/LasingNaJedi69/passer-desktop",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
